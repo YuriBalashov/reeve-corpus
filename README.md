@@ -3,7 +3,5 @@ This repository contains the complete dataset used in the "Translation Analytics
 
 **→ Read the paper on arXiv (placeholder for link)**
 
-$ PRG-IntEd_en.pdf
+`PRG-IntEd_en.pdf`
 
-$ cd bulk-llm-translator
-$ ./install.sh
