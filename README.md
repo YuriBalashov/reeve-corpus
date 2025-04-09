@@ -45,3 +45,19 @@ The Reeve Foundation Trilingual Corpus (RFTC) is made available with permission 
 
 ## Citation
 
+```
+@article{balashov_boundaries_2022,
+	title = {The boundaries of meaning: a case study in neural machine translation},
+	issn = {0020-174X, 1502-3923},
+	shorttitle = {The boundaries of meaning},
+	url = {https://www.tandfonline.com/doi/full/10.1080/0020174X.2022.2113429},
+	doi = {10.1080/0020174X.2022.2113429},
+	language = {en},
+	urldate = {2022-09-14},
+	journal = {Inquiry},
+	author = {Balashov, Yuri},
+	month = sep,
+	year = {2022},
+	pages = {1--34},
+}
+```
