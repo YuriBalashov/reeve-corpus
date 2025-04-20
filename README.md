@@ -11,7 +11,7 @@ The corpus and associated files are organized as follows:
 This directory contains PDF versions of the Reeve Foundation's *Paralysis Resource Guide (PRG)* and its Russian and Japanese translations which are used in the experiments:
 
 - `PRG-IntEd_en.pdf` — English source version  
-- `PRG-IntEd_ru.pdf` — Russian professional human translation  
+- `PRG-IntEd_ru-1.pdf` to `PRG-IntEd_ru-4.pdf` — Russian professional human translation  
 - `PRG-IntEd_ja.pdf` — Japanese professional human translation  
 
 ### `/reeve-corpus/en-ru-ja-reference`
